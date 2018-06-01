@@ -1,0 +1,13 @@
+C:\Users\elanu\OneDrive\Belgeler\Visual Studio 2015\Projects\otomobil\otomobil\bin\Debug\otomobil.exe.config
+C:\Users\elanu\OneDrive\Belgeler\Visual Studio 2015\Projects\otomobil\otomobil\bin\Debug\otomobil.exe
+C:\Users\elanu\OneDrive\Belgeler\Visual Studio 2015\Projects\otomobil\otomobil\bin\Debug\otomobil.pdb
+C:\Users\elanu\OneDrive\Belgeler\Visual Studio 2015\Projects\otomobil\otomobil\obj\Debug\otomobil.csprojResolveAssemblyReference.cache
+C:\Users\elanu\OneDrive\Belgeler\Visual Studio 2015\Projects\otomobil\otomobil\obj\Debug\otomobil.exe
+C:\Users\elanu\OneDrive\Belgeler\Visual Studio 2015\Projects\otomobil\otomobil\obj\Debug\otomobil.pdb
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\bin\Debug\otomobil.exe.config
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\bin\Debug\otomobil.exe
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\bin\Debug\otomobil.pdb
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\obj\Debug\otomobil.csprojResolveAssemblyReference.cache
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\obj\Debug\otomobil.csproj.CoreCompileInputs.cache
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\obj\Debug\otomobil.exe
+C:\Users\MuhammedErdinc\Desktop\otomobil\otomobil\obj\Debug\otomobil.pdb
